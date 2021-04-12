@@ -1,3 +1,4 @@
+
 package Animal;
 
 import Edible.Edible;
@@ -13,4 +14,3 @@ public class Chiken extends Animal implements Edible {
         return "Should be fried";
     }
 }
-
